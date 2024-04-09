@@ -29,8 +29,7 @@ Further analysis is needed to determine why these trends are occuring. Is there 
  
  # Report Snapshot (Power BI DESKTOP)
 
- 
-![HR ANALYTICS DASHBOARD](https://github.com/Sidhant-abhi/HR-Analytics-Report/assets/146129693/d54bcdd1-91e9-4c68-8d7c-942c3ee563be)
+![Screenshot 2024-04-09 233209](https://github.com/Anshi2809/HR-Analytics-using-Power-BI/assets/147128756/b5ebe3ca-f7fa-4ccc-9a46-cb93859f92d4)
 # Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
